@@ -18,6 +18,6 @@ steps:
   inputs:
     vercelProjectId: 'prj_GACqPalMK3irgD1j6lzDKYRS7PPf' 
     vercelOrgId: 'a6XwkJZUGLpLiIIbPBsulKBQ' 
-    vercelToken: $(VERCEL_TOKEN)
+    vercelToken: $(vercelToken)
     production: true
 
